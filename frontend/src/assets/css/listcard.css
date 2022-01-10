@@ -1,0 +1,28 @@
+.list-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 2%;
+    width: 250px;
+    height: 300px;
+    border-radius: 25px;
+    background-color: #52616b;
+    box-shadow: 0px 8px 24px 0px rgba(0,0,0,0.15);
+}
+.list-card-green{
+    background-color: #8bc34a;
+}
+.card-header{
+    width: 90%;
+    padding-top: 0px;
+    margin-left: 5%;
+    text-align: right;
+}
+.card-content{
+    width:100%;
+    color:#fff;
+    flex:auto;
+    text-align: center;
+    font-size: 16px;
+}

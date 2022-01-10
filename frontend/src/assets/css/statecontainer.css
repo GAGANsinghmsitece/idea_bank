@@ -1,0 +1,11 @@
+.state-container{
+    display: flex;
+    margin-left: 18%;
+    width:80%;
+    height: 97.5%;
+    background-color: transparent;
+    box-shadow:  -10px -10px 20px 2px #fafbff,10px 10px 20px 2px #a6abbd;
+    border-radius: 20px;
+    overflow: hidden;
+    border:2px solid #52616b;
+}

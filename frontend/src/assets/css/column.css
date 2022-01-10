@@ -1,0 +1,26 @@
+.state-column{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    width: 20%;
+    height: 100%;
+    border-right: 2px solid #52616b;
+}
+.state-column:nth-child(5n){
+    border-right: 0px;
+}
+.state-column-header{
+    width:100%;
+    text-align: center;
+    padding-top: 20px;
+    height: 30px;
+    color:#1e2022;
+    font-weight: bold;
+    border-bottom: 2px solid #52616b;
+    flex-shrink: 0;
+}
+.state-column-content{
+    width: 100%;
+    flex: auto;
+    overflow: auto;
+}

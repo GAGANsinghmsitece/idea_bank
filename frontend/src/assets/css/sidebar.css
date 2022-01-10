@@ -1,0 +1,13 @@
+.sidebar{
+    position: fixed;
+    margin-top: 1.5%;
+    margin-left: 2%;
+    width: 15%;
+    height: 95%;
+    background-color: #fff;
+    box-shadow:  -10px -10px 20px 2px #fafbff,2px 2px 20px 2px #a6abbd;
+    border-radius: 15px;
+}
+.sidebar a{
+    text-decoration: none;
+}
